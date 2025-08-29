@@ -16,3 +16,6 @@ Key highlights include:
     Developed using Java in the Eclipse IDE for efficient development and debugging
 
 This project serves as a practical example of applying the POM framework to create maintainable and scalable Selenium test automation scripts.
+
+<img width="1243" height="521" alt="image" src="https://github.com/user-attachments/assets/21aab002-900d-4ce2-a7e6-155edae0e092" />
+
